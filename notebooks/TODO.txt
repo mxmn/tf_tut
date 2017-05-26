@@ -1,0 +1,21 @@
+TODO's
+
+** Learning
+
+- continue sequence prediction, after learning
+- compare predicted sequence for variable lengths
+
+- A2: continue real-valued seq
+
+
+** Bia
+
+- generate two data seqs: 
+    - number of units ordered per week
+    - binary: either something ordered per week
+
+
+** Music
+
+- port to tf
+- different evaluation behavior
